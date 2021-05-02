@@ -1,0 +1,12 @@
+{
+  "name": "IOTCat",
+  "displayName": "IOTCat",
+  "expo": {
+    "name": "IOTCat",
+    "slug": "IOTCat",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
